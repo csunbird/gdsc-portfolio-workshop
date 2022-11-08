@@ -46,7 +46,7 @@ export default function Intro() {
         transition={{ enter: { duration: 0.4, delay: 1.0 } }}
       >
         <Stack isInline spacing={4}>
-          <Link href="https://github.com/" isExternal>
+          <Link href="https://github.com/csunbird" isExternal>
             <Button
               leftIcon={<FaGithub color="#5F99FF" />}
               position="static"
